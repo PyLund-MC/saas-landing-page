@@ -168,18 +168,6 @@ Update SEO metadata in \`app/layout.tsx\`:
 
 ## 📧 Contact Form Integration
 
-The contact form is ready for integration with email services:
-
-### EmailJS Integration
-1. Sign up at [EmailJS](https://www.emailjs.com/)
-2. Create a service and template
-3. Add your service ID, template ID, and public key to environment variables:
-   \`\`\`env
-   NEXT_PUBLIC_EMAILJS_SERVICE_ID=your_service_id
-   NEXT_PUBLIC_EMAILJS_TEMPLATE_ID=your_template_id
-   NEXT_PUBLIC_EMAILJS_PUBLIC_KEY=your_public_key
-   \`\`\`
-4. Update the form submission logic in \`components/contact-section.tsx\`
 
 ### Formspree Integration
 1. Sign up at [Formspree](https://formspree.io/)
@@ -226,7 +214,6 @@ The template works with any platform that supports Next.js:
 - \`npm run dev\` - Start development server
 - \`npm run build\` - Build for production
 - \`npm run start\` - Start production server
-- \`npm run lint\` - Run ESLint
 - \`npm run type-check\` - Run TypeScript type checking
 
 ## 📦 Dependencies
@@ -275,19 +262,12 @@ The template works with any platform that supports Next.js:
 
 ## 📄 License
 
-This template is open source and available under the [MIT License](LICENSE).
 
-## 🆘 Support
+This template is for personal and commercial projects.
+❌ Reselling, sharing, or distributing is not allowed.
 
-If you need help customizing this template:
-1. Check the documentation above
-2. Search existing GitHub issues
-3. Create a new issue with detailed information
-4. Consider hiring a developer for extensive customizations
 
-## 🌟 Showcase
 
-Built something amazing with this template? We'd love to see it! Share your project by creating an issue with the "showcase" label.
 
 ---
 

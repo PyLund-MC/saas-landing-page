@@ -1,0 +1,11 @@
+{
+    "omnisharp.projectFilesExcludePattern": "",
+    "intelephense.files.exclude": [],
+    "files.exclude": {
+        "**/.DS_Store": false,
+        "**/.git": false,
+        "**/.hg": false,
+        "**/.svn": false,
+        "**/Thumbs.db": false
+    }
+}
